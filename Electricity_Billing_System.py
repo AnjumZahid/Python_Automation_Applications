@@ -3,6 +3,7 @@ import pandas as pd
 from fpdf import FPDF
 import io
 
+#set page title
 st.set_page_config(page_title="Billing System", layout="wide")
 st.title("Departmental Electricity Billing System (IESCO Tariff-Based)")
 
