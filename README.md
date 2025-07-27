@@ -7,7 +7,7 @@ While these are not the exact versions developed during official job roles, they
 ## Projects Overview
 
 1. BOQ Estimation  
-Originally developed 4 years ago, this project automates the process of preparing Bills of Quantities for civil engineering tasks. It reads structured input data and generates detailed item-wise estimates to assist in cost planning and project documentation.
+Originally developed 4 years ago, this project automates the process of preparing Bills of Quantities for elect engineering tasks. It reads structured input data and generates detailed item-wise estimates to assist in cost planning and project documentation.
 
 2. Electricity Billing System  
 Based on a concept implemented 3 years ago, this application simulates internal electricity billing for departments based on sub-meter readings. It uses IESCO tariff structures to calculate departmental charges from a shared master meter, following standard utility billing logic.
